@@ -1,1 +1,3 @@
 node_modules
+rocketq.sqlite
+src/db/rocketq.sqlite
